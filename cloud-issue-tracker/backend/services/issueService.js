@@ -1,7 +1,3 @@
-readIssues()
-createIssue(input) 
-updateIssueStatus(id,status)
-writeIssues()
 
 const fs = require('fs/promises');
 const path = require('path');
